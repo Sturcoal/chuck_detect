@@ -181,12 +181,8 @@ project/
 
 При использовании данного кода в публикациях, пожалуйста, цитируйте оригинальную статью:
 
-> Turanov S.V. *et al.* Application of a general‑purpose convolutional neural‑network model to the automatic detection of benthic megafauna in ROV footage from the Chukchi Sea // **Biologiya Morya – Mar. Biol. (Vladivostok)**. 2025. In press.
+> Туранов С.В. Применение неспециализированной модели свёрточной нейросети для автоматической детекции макроскопических организмов из подводных видеосьёмок чукотского моря // Биология моря (или какой другой журнал, хз). 2025. В печати.
 
-И указывайте репозиторий:
-
-> GitHub: `https://github.com/<your_username>/detectron2-chukchi-rov`
-> DOI (Zenodo): `10.xxxx/zenodo.xxxxx` *(если будет присвоен)*
 
 ---
 
